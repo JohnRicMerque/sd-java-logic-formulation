@@ -5,5 +5,8 @@ public class Main {
 
         System.out.println("2. Checking for a Prime Number");
         PrimeCheck.main(args);
+
+        System.out.println("3. Fibonacci Series");
+        FibonacciSeries.main(args);
     }
 }
