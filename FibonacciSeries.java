@@ -20,5 +20,7 @@ public class FibonacciSeries {
                 System.out.print(fib + " ");
             }
         }
+
+        System.out.println();
     }
 }
