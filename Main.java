@@ -11,5 +11,8 @@ public class Main {
 
         System.out.println("4. Java code that will output the pattern");
         PatternGenerate.main(args);
+
+        System.out.println("5. Checking a Palindrome");
+        PalindromeCheck.main(args);
     }
 }
