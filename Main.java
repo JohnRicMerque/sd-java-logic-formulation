@@ -8,5 +8,8 @@ public class Main {
 
         System.out.println("3. Fibonacci Series");
         FibonacciSeries.main(args);
+
+        System.out.println("4. Java code that will output the pattern");
+        PatternGenerate.main(args);
     }
 }
